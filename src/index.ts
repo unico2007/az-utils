@@ -8,5 +8,6 @@
 export * from "./fin";
 export * from "./iban";
 export * from "./phone";
+export * from "./postal";
 export * from "./slug";
 export * from "./voen";
