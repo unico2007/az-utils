@@ -5,6 +5,7 @@ export { ensurePrefix } from "./ensurePrefix";
 export { ensureSuffix } from "./ensureSuffix";
 export { extractDigits } from "./extractDigits";
 export { initials } from "./initials";
+export { isAzAlpha } from "./isAzAlpha";
 export { isBlank } from "./isBlank";
 export { normalizeSpaces } from "./normalizeSpaces";
 export { reverseText } from "./reverseText";
