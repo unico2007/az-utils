@@ -1,3 +1,4 @@
+export { clamp } from "./clamp";
 export { formatNumberAz } from "./format";
 export { parseNumberAz } from "./parse";
 export { roundTo } from "./round";
