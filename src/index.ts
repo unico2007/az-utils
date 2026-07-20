@@ -6,6 +6,7 @@
  */
 
 export * from "./currency";
+export * from "./dates";
 export * from "./fin";
 export * from "./iban";
 export * from "./number";
