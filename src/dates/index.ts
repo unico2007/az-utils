@@ -1,5 +1,6 @@
 export { addDays } from "./addDays";
 export { addMonths } from "./addMonths";
+export { addYears } from "./addYears";
 export { getAge } from "./age";
 export { formatDateTimeAz } from "./dateTime";
 export { dayOfYear } from "./dayOfYear";
