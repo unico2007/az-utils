@@ -5,6 +5,7 @@ export { formatDateTimeAz } from "./dateTime";
 export { dayOfYear } from "./dayOfYear";
 export { daysBetween } from "./daysBetween";
 export { daysInMonth } from "./daysInMonth";
+export { endOfDay } from "./endOfDay";
 export { endOfMonth } from "./endOfMonth";
 export { formatTimeAz } from "./formatTime";
 export { isFuture } from "./isFuture";
