@@ -16,6 +16,7 @@ export { formatDateAz, MONTH_NAMES_AZ } from "./months";
 export { quarterOf } from "./quarter";
 export { formatDateShortAz } from "./shortFormat";
 export { parseDateShortAz } from "./shortParse";
+export { startOfDay } from "./startOfDay";
 export { startOfMonth } from "./startOfMonth";
 export { isValidDateParts } from "./validParts";
 export { WEEKDAY_NAMES_AZ, weekdayNameAz } from "./weekdays";
