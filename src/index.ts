@@ -15,5 +15,6 @@ export * from "./phone";
 export * from "./plate";
 export * from "./postal";
 export * from "./slug";
+export * from "./swift";
 export * from "./text";
 export * from "./voen";
