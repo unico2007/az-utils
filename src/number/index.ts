@@ -7,6 +7,7 @@ export { isOdd } from "./isOdd";
 export { ordinalAz } from "./ordinal";
 export { parseNumberAz } from "./parse";
 export { percentOf } from "./percentOf";
+export { range } from "./range";
 export { roundTo } from "./round";
 export { sum } from "./sum";
 export { numberToWordsAz } from "./words";
