@@ -1,0 +1,68 @@
+{
+  "name": "az-utils",
+  "version": "0.1.0",
+  "description": "Azerbaijan-specific validators, formatters and utilities for Node.js and the browser — FIN, VÖEN, IBAN, phone numbers, transliteration and more.",
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "sideEffects": false,
+  "scripts": {
+    "build": "tsup",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage",
+    "typecheck": "tsc --noEmit",
+    "lint": "biome check .",
+    "lint:fix": "biome check --write .",
+    "format": "biome format --write .",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "azerbaijan",
+    "azerbaijani",
+    "validation",
+    "validator",
+    "iban",
+    "fin",
+    "voen",
+    "phone",
+    "transliteration",
+    "i18n",
+    "locale",
+    "utils"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unico2007/az-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/unico2007/az-utils/issues"
+  },
+  "homepage": "https://github.com/unico2007/az-utils#readme",
+  "engines": {
+    "node": ">=18"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.5.4",
+    "@vitest/coverage-v8": "^4.1.10",
+    "tsup": "^8.5.1",
+    "typescript": "^5.9.3",
+    "vitest": "^4.1.10"
+  }
+}

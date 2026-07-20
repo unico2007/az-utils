@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Roadmap
+    url: https://github.com/unico2007/az-utils/blob/main/ROADMAP.md
+    about: Browse planned utilities — each item is roughly one PR.
+  - name: Contributing guide
+    url: https://github.com/unico2007/az-utils/blob/main/CONTRIBUTING.md
+    about: How to add a utility in three small steps.
