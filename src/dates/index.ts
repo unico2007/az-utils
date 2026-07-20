@@ -4,6 +4,7 @@ export { getAge } from "./age";
 export { formatDateTimeAz } from "./dateTime";
 export { daysBetween } from "./daysBetween";
 export { daysInMonth } from "./daysInMonth";
+export { endOfMonth } from "./endOfMonth";
 export { isLeapYear } from "./leapYear";
 export { formatDateAz, MONTH_NAMES_AZ } from "./months";
 export { quarterOf } from "./quarter";
