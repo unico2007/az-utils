@@ -1,6 +1,7 @@
 export { asciiFold } from "./asciiFold";
 export { capitalizeFirstAz } from "./capitalizeFirst";
 export { countWords } from "./countWords";
+export { ensurePrefix } from "./ensurePrefix";
 export { extractDigits } from "./extractDigits";
 export { initials } from "./initials";
 export { isBlank } from "./isBlank";
