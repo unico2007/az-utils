@@ -1,4 +1,5 @@
 export { getAge } from "./age";
+export { formatDateTimeAz } from "./dateTime";
 export { daysBetween } from "./daysBetween";
 export { formatDateAz, MONTH_NAMES_AZ } from "./months";
 export { quarterOf } from "./quarter";
