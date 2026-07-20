@@ -5,6 +5,7 @@ export { gcd } from "./gcd";
 export { inRange } from "./inRange";
 export { isEven } from "./isEven";
 export { isOdd } from "./isOdd";
+export { lcm } from "./lcm";
 export { ordinalAz } from "./ordinal";
 export { parseNumberAz } from "./parse";
 export { percentOf } from "./percentOf";
