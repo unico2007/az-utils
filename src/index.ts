@@ -12,6 +12,7 @@ export * from "./dates";
 export * from "./fin";
 export * from "./iban";
 export * from "./number";
+export * from "./percent";
 export * from "./phone";
 export * from "./plate";
 export * from "./postal";
