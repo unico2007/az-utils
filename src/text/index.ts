@@ -7,6 +7,7 @@ export { extractDigits } from "./extractDigits";
 export { initials } from "./initials";
 export { isAzAlpha } from "./isAzAlpha";
 export { isBlank } from "./isBlank";
+export { maskEmail } from "./maskEmail";
 export { normalizeSpaces } from "./normalizeSpaces";
 export { reverseText } from "./reverseText";
 export { truncate } from "./truncate";
