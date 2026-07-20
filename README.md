@@ -23,7 +23,7 @@ and thoroughly-tested library.
 ## Install
 
 ```bash
-npm install az-utils
+npm install azerbaijan-utils
 ```
 
 ## Quick start
@@ -35,7 +35,7 @@ import {
   numberToWordsAz,
   normalizePhone,
   toUpperAz,
-} from "az-utils";
+} from "azerbaijan-utils";
 
 isValidIban("AZ21 NABZ 0000 0000 1370 1000 1944"); // true
 formatManat(1234.5);                                // "1 234,50 ₼"
