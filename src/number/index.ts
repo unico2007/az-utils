@@ -5,6 +5,7 @@ export { inRange } from "./inRange";
 export { isEven } from "./isEven";
 export { isOdd } from "./isOdd";
 export { parseNumberAz } from "./parse";
+export { percentOf } from "./percentOf";
 export { roundTo } from "./round";
 export { sum } from "./sum";
 export { numberToWordsAz } from "./words";
