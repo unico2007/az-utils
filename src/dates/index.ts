@@ -13,6 +13,7 @@ export { isToday } from "./isToday";
 export { isLeapYear } from "./leapYear";
 export { formatDateAz, MONTH_NAMES_AZ } from "./months";
 export { quarterOf } from "./quarter";
+export { formatDateShortAz } from "./shortFormat";
 export { startOfMonth } from "./startOfMonth";
 export { isValidDateParts } from "./validParts";
 export { WEEKDAY_NAMES_AZ, weekdayNameAz } from "./weekdays";
