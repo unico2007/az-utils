@@ -4,4 +4,5 @@ export { countWords } from "./countWords";
 export { initials } from "./initials";
 export { isBlank } from "./isBlank";
 export { normalizeSpaces } from "./normalizeSpaces";
+export { reverseText } from "./reverseText";
 export { truncate } from "./truncate";
