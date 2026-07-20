@@ -1,3 +1,4 @@
+export { average } from "./average";
 export { clamp } from "./clamp";
 export { formatNumberAz } from "./format";
 export { inRange } from "./inRange";
