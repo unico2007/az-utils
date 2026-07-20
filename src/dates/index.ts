@@ -2,6 +2,7 @@ export { addDays } from "./addDays";
 export { addMonths } from "./addMonths";
 export { getAge } from "./age";
 export { formatDateTimeAz } from "./dateTime";
+export { dayOfYear } from "./dayOfYear";
 export { daysBetween } from "./daysBetween";
 export { daysInMonth } from "./daysInMonth";
 export { endOfMonth } from "./endOfMonth";
