@@ -1,6 +1,7 @@
 export { average } from "./average";
 export { clamp } from "./clamp";
 export { formatNumberAz } from "./format";
+export { gcd } from "./gcd";
 export { inRange } from "./inRange";
 export { isEven } from "./isEven";
 export { isOdd } from "./isOdd";
