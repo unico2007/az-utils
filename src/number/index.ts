@@ -4,6 +4,7 @@ export { formatNumberAz } from "./format";
 export { inRange } from "./inRange";
 export { isEven } from "./isEven";
 export { isOdd } from "./isOdd";
+export { ordinalAz } from "./ordinal";
 export { parseNumberAz } from "./parse";
 export { percentOf } from "./percentOf";
 export { roundTo } from "./round";
