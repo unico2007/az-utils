@@ -16,6 +16,7 @@ export { isSameMonth } from "./isSameMonth";
 export { isToday } from "./isToday";
 export { isLeapYear } from "./leapYear";
 export { formatDateAz, MONTH_NAMES_AZ } from "./months";
+export { monthsBetween } from "./monthsBetween";
 export { quarterOf } from "./quarter";
 export { formatDateShortAz } from "./shortFormat";
 export { parseDateShortAz } from "./shortParse";
