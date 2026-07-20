@@ -1,3 +1,4 @@
+export { addDays } from "./addDays";
 export { getAge } from "./age";
 export { formatDateTimeAz } from "./dateTime";
 export { daysBetween } from "./daysBetween";
