@@ -7,3 +7,4 @@
 
 export * from "./fin";
 export * from "./iban";
+export * from "./voen";
