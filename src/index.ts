@@ -8,6 +8,7 @@
 export * from "./currency";
 export * from "./fin";
 export * from "./iban";
+export * from "./number";
 export * from "./phone";
 export * from "./plate";
 export * from "./postal";
