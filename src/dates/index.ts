@@ -11,6 +11,7 @@ export { formatTimeAz } from "./formatTime";
 export { isFuture } from "./isFuture";
 export { isPast } from "./isPast";
 export { isSameDay } from "./isSameDay";
+export { isSameMonth } from "./isSameMonth";
 export { isToday } from "./isToday";
 export { isLeapYear } from "./leapYear";
 export { formatDateAz, MONTH_NAMES_AZ } from "./months";
