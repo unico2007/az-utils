@@ -7,6 +7,7 @@ export { isEven } from "./isEven";
 export { isOdd } from "./isOdd";
 export { lcm } from "./lcm";
 export { median } from "./median";
+export { minOf } from "./minOf";
 export { ordinalAz } from "./ordinal";
 export { parseNumberAz } from "./parse";
 export { percentOf } from "./percentOf";
