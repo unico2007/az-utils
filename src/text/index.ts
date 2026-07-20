@@ -12,3 +12,4 @@ export { maskEmail } from "./maskEmail";
 export { normalizeSpaces } from "./normalizeSpaces";
 export { reverseText } from "./reverseText";
 export { truncate } from "./truncate";
+export { zeroPad } from "./zeroPad";
