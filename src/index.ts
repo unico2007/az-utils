@@ -5,6 +5,7 @@
  * Keep exports flat and named so consumers can tree-shake what they don't use.
  */
 
+export * from "./currency";
 export * from "./fin";
 export * from "./iban";
 export * from "./phone";

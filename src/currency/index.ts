@@ -1,0 +1,1 @@
+export { formatManat } from "./format";
