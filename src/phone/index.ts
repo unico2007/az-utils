@@ -1,3 +1,4 @@
+export { phoneDigits } from "./digits";
 export { arePhonesEqual } from "./equal";
 export { formatPhoneInternational, formatPhoneNational } from "./format";
 export { detectOperator } from "./operator";
