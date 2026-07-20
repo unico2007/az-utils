@@ -1,1 +1,2 @@
 export { formatDateAz, MONTH_NAMES_AZ } from "./months";
+export { WEEKDAY_NAMES_AZ, weekdayNameAz } from "./weekdays";
