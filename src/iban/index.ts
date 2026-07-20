@@ -1,3 +1,4 @@
+export { areIbansEqual } from "./equal";
 export { extractAccount, extractBankCode } from "./extract";
 export { formatIban } from "./format";
 export { generateIban } from "./generate";
