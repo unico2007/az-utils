@@ -6,6 +6,7 @@ export { daysBetween } from "./daysBetween";
 export { daysInMonth } from "./daysInMonth";
 export { endOfMonth } from "./endOfMonth";
 export { isSameDay } from "./isSameDay";
+export { isToday } from "./isToday";
 export { isLeapYear } from "./leapYear";
 export { formatDateAz, MONTH_NAMES_AZ } from "./months";
 export { quarterOf } from "./quarter";
