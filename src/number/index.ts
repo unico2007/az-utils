@@ -6,6 +6,7 @@ export { inRange } from "./inRange";
 export { isEven } from "./isEven";
 export { isOdd } from "./isOdd";
 export { lcm } from "./lcm";
+export { maxOf } from "./maxOf";
 export { median } from "./median";
 export { minOf } from "./minOf";
 export { ordinalAz } from "./ordinal";
