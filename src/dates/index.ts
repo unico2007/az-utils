@@ -5,6 +5,7 @@ export { formatDateTimeAz } from "./dateTime";
 export { daysBetween } from "./daysBetween";
 export { daysInMonth } from "./daysInMonth";
 export { endOfMonth } from "./endOfMonth";
+export { isPast } from "./isPast";
 export { isSameDay } from "./isSameDay";
 export { isToday } from "./isToday";
 export { isLeapYear } from "./leapYear";
